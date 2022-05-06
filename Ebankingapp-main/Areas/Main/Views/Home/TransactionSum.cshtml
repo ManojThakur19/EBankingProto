@@ -1,0 +1,18 @@
+﻿@model IEnumerable<MigrationHelper.ViewModels.TransactionSummaryViewModel>
+@{
+    Layout = "~/Areas/Main/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+@foreach (var transactionSummary in Model)
+{
+    <div class="card" style="width: 100%;">
+        <div class="card-body">
+            <h5 class="card-title"><b>@transactionSummary.Remarks</b></h5>
+            <p>@transactionSummary.CurrencyName | @transactionSummary.Amount</p>
+            <p>@transactionSummary.FromAccount > @transactionSummary.ToAccount</p>
+        </div>
+    </div>
+}
+

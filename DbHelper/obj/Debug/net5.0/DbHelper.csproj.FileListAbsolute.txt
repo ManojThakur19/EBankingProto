@@ -1,0 +1,60 @@
+C:\Users\Dell\source\repos\DbHelper\bin\Debug\net5.0\DbHelper.deps.json
+C:\Users\Dell\source\repos\DbHelper\bin\Debug\net5.0\DbHelper.dll
+C:\Users\Dell\source\repos\DbHelper\bin\Debug\net5.0\DbHelper.pdb
+C:\Users\Dell\source\repos\DbHelper\bin\Debug\net5.0\MigrationHelper.dll
+C:\Users\Dell\source\repos\DbHelper\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CopyComplete
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.dll
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\refint\DbHelper.dll
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\DbHelper.pdb
+C:\Users\Dell\source\repos\DbHelper\obj\Debug\net5.0\ref\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\DbHelper.deps.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\ref\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\DbHelper.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\MigrationHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.AssemblyReference.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfoInputs.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfo.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CoreCompileInputs.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CopyComplete
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\ref\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\DbHelper\obj\Debug\net5.0\DbHelper.pdb
+C:\Ebank-main\DbHelper\bin\Debug\net5.0\DbHelper.deps.json
+C:\Ebank-main\DbHelper\bin\Debug\net5.0\DbHelper.dll
+C:\Ebank-main\DbHelper\bin\Debug\net5.0\DbHelper.pdb
+C:\Ebank-main\DbHelper\bin\Debug\net5.0\MigrationHelper.dll
+C:\Ebank-main\DbHelper\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.AssemblyReference.cache
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfoInputs.cache
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfo.cs
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CoreCompileInputs.cache
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CopyComplete
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.dll
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\refint\DbHelper.dll
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\DbHelper.pdb
+C:\Ebank-main\DbHelper\obj\Debug\net5.0\ref\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\DbHelper.deps.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\ref\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\DbHelper.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\MigrationHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\bin\Debug\net5.0\MigrationHelper.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.csproj.AssemblyReference.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfoInputs.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.AssemblyInfo.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CoreCompileInputs.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.csproj.CopyComplete
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\ref\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\DbHelper\obj\Debug\net5.0\DbHelper.pdb

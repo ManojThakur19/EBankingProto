@@ -1,0 +1,407 @@
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\appsettings.json
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.StaticWebAssets.xml
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.exe
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.deps.json
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.runtimeconfig.json
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.Views.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\EbankingApp.Views.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\DbHelper.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\MigrationHelper.dll
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\DbHelper.pdb
+C:\Users\Dell\source\repos\EbankingApp\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\scopedcss\bundle\EbankingApp.styles.css
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.xml
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.TagHelpers.input.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.TagHelpers.output.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.RazorCoreGenerate.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cs
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.Views.pdb
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.csproj.CopyComplete
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.dll
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\refint\EbankingApp.dll
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.pdb
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\EbankingApp.genruntimeconfig.cache
+C:\Users\Dell\source\repos\EbankingApp\obj\Debug\net5.0\ref\EbankingApp.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.AssemblyReference.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfoInputs.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfo.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CoreCompileInputs.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.Manifest.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.xml
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\scopedcss\bundle\EbankingApp.styles.css
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.input.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.output.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorCoreGenerate.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\ref\EbankingApp.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\appsettings.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.StaticWebAssets.xml
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.exe
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.deps.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.dev.json
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\ref\EbankingApp.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\DbHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\DbHelper.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Index.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\LoadFund.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Profile.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Transaction.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\TransactionSum.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cs
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.Views.pdb
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CopyComplete
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.genruntimeconfig.cache
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Azure.Core.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.dll
+C:\Users\Kaushtup Bista\Desktop\Ebankingapp-main\Ebankingapp-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\appsettings.Development.json
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\appsettings.json
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.StaticWebAssets.xml
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.exe
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.deps.json
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.json
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.dev.json
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Azure.Core.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Humanizer.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.Functions.Extensions.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Memory.Data.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\System.Text.Json.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\DbHelper.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.dll
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\DbHelper.pdb
+C:\Ebank-main\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.pdb
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.AssemblyReference.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfoInputs.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfo.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CoreCompileInputs.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\scopedcss\bundle\EbankingApp.styles.css
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.Manifest.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.xml
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.input.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.output.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorCoreGenerate.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Index.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\LoadFund.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Profile.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Transaction.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\TransactionSum.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Shared\_Layout.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\_ViewImports.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cs
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.Views.pdb
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CopyComplete
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.dll
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\refint\EbankingApp.dll
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.pdb
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.genruntimeconfig.cache
+C:\Ebank-main\Ebankingapp-main\obj\Debug\net5.0\ref\EbankingApp.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\appsettings.Development.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\appsettings.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.StaticWebAssets.xml
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.exe
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.deps.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.runtimeconfig.dev.json
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\ref\EbankingApp.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\EbankingApp.Views.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Azure.Core.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Humanizer.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.Functions.Extensions.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.Host.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Azure.WebJobs.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Graph.Core.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Memory.Data.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\System.Text.Json.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\DbHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\DbHelper.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\bin\Debug\net5.0\MigrationHelper.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.AssemblyReference.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfoInputs.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.AssemblyInfo.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CoreCompileInputs.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.MvcApplicationPartsAssemblyInfo.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorAssemblyInfo.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.Manifest.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\staticwebassets\EbankingApp.StaticWebAssets.xml
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\scopedcss\bundle\EbankingApp.styles.css
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.input.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.TagHelpers.output.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorCoreGenerate.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Index.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\LoadFund.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Profile.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\Transaction.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Home\TransactionSum.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\Shared\_Layout.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Areas\Main\Views\_ViewImports.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cache
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.RazorTargetAssemblyInfo.cs
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.Views.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.csproj.CopyComplete
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\ref\EbankingApp.dll
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.pdb
+D:\sampleprojects\Jenish\Ebanking-Prototype\Ebankingapp-main\obj\Debug\net5.0\EbankingApp.genruntimeconfig.cache

@@ -1,0 +1,153 @@
+﻿
+@model MigrationHelper.ViewModels.TransactionViewModel
+@{ 
+   Layout = "~/Areas/Main/Views/Shared/_Layout.cshtml";
+   var currencyData = (SelectList)ViewData["CurrencyData"]; 
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+<form class="mx-1 mx-md-4" asp-action="Transaction" method="post">
+<div class="card">
+  <div class="card-header">
+    User details
+  </div>
+  <div class="card-body" style="width: 100%;">
+    <h1 class="card-title">@Model.FromName.ToUpper()</h1>
+    <h3 class="card-title"> £@Model.Balance</h3>
+    <h5 class="card-title">@Model.FromAccNum</h5> 
+  </div>
+</div>
+
+<div class="card">
+ <div class="card-header">
+   Fund Transfer
+  </div>
+<div class="card-body" style="width: 100%;">
+  <label class="form-label">Amount</label>
+  <input type="text" asp-for=Amount class="form-control" />
+ </div>
+ 
+
+ 
+<div class="card-body" style="width: 100%;">
+ <label class="form-label">Currency</label>
+ @Html.DropDownList("CurrencyId", currencyData, htmlAttributes: new { @class = "form-control" })
+ </div>
+ 
+
+ <div class="card-body" style="width: 100%;">
+ <label class="form-label">Receiver Account Number</label>
+ <input type="text" asp-for=ToAccNum class="form-control" />
+ </div>
+
+ <div class="card-body" style="width: 100%;">
+  <label class="form-label">Remark</label>
+  <input type="text" asp-for=Remarks class="form-control" />
+ </div>
+
+  <div class="card-body" style="width: 100%;">
+ <button type="submit" class="btn btn-primary btn-lg">Send</button>
+ </div>
+ </div>
+ </form>
+
+
+ 
+@* @*<div class="card-body" style="width: 100%;">
+ <label class="form-label">Receiver Account Number</label>
+ <input type="text" asp-for= class="form-control" />
+ </div>*@
+
+
+
+ 
+
+
+
+
+
+
+                                    
+                                    @*<div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Account Name: @Model.FromName</label>
+                                            <input type="hidden" asp-for=FromName value="@Model.FromName" class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Account Number: @Model.FromAccNum</label>
+                                           <input type="hidden" asp-for=FromAccNum value="@Model.FromAccNum" class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Balance: £ @Model.Balance</label>
+                                            <input type="hidden" asp-for=Balance value="@Model.Balance" class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Amount</label>
+                                            <input type="text" asp-for=Amount class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Currency</label>
+                                            @Html.DropDownList("CurrencyId", currencyData, htmlAttributes: new { @class = "form-control" })
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Receiver Account Number</label>
+                                            <input type="text" asp-for=ToAccNum class="form-control" />
+                                        </div>
+                                    </div>
+
+                                    <div class="d-flex flex-row align-items-center mb-4">
+                                        <div class="form-outline flex-fill mb-0">
+                                            <label class="form-label">Remark</label>
+                                            <input type="text" asp-for=Remarks class="form-control" />
+                                        </div>
+                                    </div>*@
+
+                                    
+                                        
+                            
+
+<div class="modal fade" id="popupModal" tabindex="-1" role="dialog" aria-labelledby="aModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="aModalLabel">Message</h4>
+            </div>
+            <div class="modal-body">
+                @ViewBag.Result
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-success" data-dismiss="modal">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@{ if (ViewBag.Result != null)
+                {
+
+                    <script src="~/lib/jquery/dist/jquery.js"></script>
+                                    <script type="text/javascript">
+                                        $(function () {
+                                            $("#popupModal").modal('show');
+                                        });
+                    </script> } }
+                         
