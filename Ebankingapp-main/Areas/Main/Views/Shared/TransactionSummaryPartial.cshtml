@@ -1,0 +1,15 @@
+﻿@{
+}
+
+@model IEnumerable<MigrationHelper.ViewModels.TransactionSummaryViewModel>
+
+@foreach (var transactionSummary in Model)
+{
+    <div class="card" style="width: 100%;">
+        <div class="card-body">
+            <h5 class="card-title"><b>@transactionSummary.Remarks</b></h5>
+            <p>@transactionSummary.CurrencyName | @transactionSummary.Amount</p>
+            <p>@transactionSummary.FromAccount > @transactionSummary.ToAccount</p>
+        </div>
+    </div>
+}

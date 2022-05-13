@@ -124,12 +124,26 @@ namespace EbankingApp.Areas.Main.Controllers
         {
             try
             {
+                return View();
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Transactionsum(FilterModel filterModel)
+        {
+            try
+            {
                 var userId = Convert.ToInt32(_httpContAccessor.HttpContext.User.FindFirstValue("Id"));
 
                 var transactions = (await _Helper.GetTransaction()).Where(x => x.FromUserId == userId || x.ToUserId == userId).OrderByDescending(x => x.Date.Date);
+                var filteredTransactions = transactions.Where(x => x.Date.Date >= filterModel.Start.Date && x.Date.Date <= filterModel.End.Date).ToList();
 
-                var fromUserIds = transactions.Select(x => x.FromUserId).ToList();
-                var toUserIds = transactions.Select(x => x.ToUserId).ToList();
+                var fromUserIds = filteredTransactions.Select(x => x.FromUserId).ToList();
+                var toUserIds = filteredTransactions.Select(x => x.ToUserId).ToList();
 
                 var distinctUserIds = fromUserIds.Concat(toUserIds).Distinct().ToList();
 
@@ -139,19 +153,19 @@ namespace EbankingApp.Areas.Main.Controllers
                     users.Add(await _Helper.GetUserByIdAsync(distId));
                 }
 
-                
-                var distinctCurrencyIds = transactions.Select(x => x.CurrencyId).Distinct();
+
+                var distinctCurrencyIds = filteredTransactions.Select(x => x.CurrencyId).Distinct();
                 var currencies = (await _Helper.GetCurrency()).Where(x => distinctCurrencyIds.Contains(x.ID));
 
                 List<TransactionSummaryViewModel> datas = new List<TransactionSummaryViewModel>();
-                foreach (var transaction in transactions)
+                foreach (var transaction in filteredTransactions)
                 {
                     var data = new TransactionSummaryViewModel
                     {
                         Id = transaction.ID,
                         Amount = transaction.Amount,
                         CurrencyId = transaction.CurrencyId,
-                        CurrencyName = currencies.First(x=>x.ID == transaction.CurrencyId).name,
+                        CurrencyName = currencies.First(x => x.ID == transaction.CurrencyId).name,
                         FromAccount = transaction.FromAccNum,
                         FromUserId = transaction.FromUserId,
                         FromFullName = users.Find(x => x.ID == transaction.FromUserId).Firstname,
@@ -166,7 +180,7 @@ namespace EbankingApp.Areas.Main.Controllers
                     datas.Add(data);
                 }
 
-                return View(datas);
+                return PartialView("TransactionSummaryPartial", datas);
             }
             catch (Exception ex)
             {

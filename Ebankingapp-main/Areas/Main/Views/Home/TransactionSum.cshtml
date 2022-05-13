@@ -1,8 +1,6 @@
-﻿@model IEnumerable<MigrationHelper.ViewModels.TransactionSummaryViewModel>
-@{
+﻿@{
     Layout = "~/Areas/Main/Views/Shared/_Layout.cshtml";
 }
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
 
@@ -21,18 +19,8 @@
         </div>
     </div>
 </div>
-
-
-@foreach (var transactionSummary in Model)
-{
-    <div class="card" style="width: 100%;">
-        <div class="card-body">
-            <h5 class="card-title"><b>@transactionSummary.Remarks</b></h5>
-            <p>@transactionSummary.CurrencyName | @transactionSummary.Amount</p>
-            <p>@transactionSummary.FromAccount > @transactionSummary.ToAccount</p>
-        </div>
-    </div>
-}
+<div id="trans-summary">
+</div>
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery/latest/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
@@ -45,6 +33,16 @@
     function cb(start, end) {
         $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'));
         console.log("A new date selection was made: " + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD'));
+        let filter = { Start: start.format('YYYY-MM-DD'), End: end.format('YYYY-MM-DD') };
+        $.ajax({
+            type: 'POST',
+            url: "/Main/Home/Transactionsum/",
+            data: filter,
+            dataType: "html",
+            success: function (evt) {
+                $('#trans-summary').html(evt);
+            },
+        });
     }
 
     $('#reportrange').daterangepicker({
@@ -61,6 +59,6 @@
     }, cb);
 
     cb(start, end);
-    
+
 </script>
 
